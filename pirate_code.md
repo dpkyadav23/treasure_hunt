@@ -41,5 +41,5 @@ XI.   Any man deserting the ship in battle or rewriting history on the
   above, so you get your fair share of the prize!
 
 Captain      : Deepak Yadav
-Quartermaster: NAME HERE  
+Quartermaster: ANAIS  
 First mate   : First Mate 
